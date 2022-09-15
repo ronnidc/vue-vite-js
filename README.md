@@ -1,10 +1,10 @@
 # vue-vite
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite & learning [Pinia: The Enjoyable Vue Store](https://vueschool.io/lessons/install-and-setup-up-pinia).
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 ## Customize configuration
 
