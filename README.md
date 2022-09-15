@@ -1,6 +1,6 @@
-# vue-vite
+# vue-vite-js
 
-This template should help get you started developing with Vue 3 in Vite & learning [Pinia: The Enjoyable Vue Store](https://vueschool.io/lessons/install-and-setup-up-pinia).
+This template should help me get started developing with Vue 3 in Vite & learning [Pinia: The Enjoyable Vue Store](https://vueschool.io/lessons/install-and-setup-up-pinia).
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Continius deployment with Vercel
+
+Latest release: [vue-vite-js.vercel.app](https://vue-vite-js.vercel.app/)
